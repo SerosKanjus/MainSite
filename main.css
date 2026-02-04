@@ -10,7 +10,7 @@ body {
 .SVG {
   display: flex;
   align-items: center;
-  height:100vh;
+  height:50vh;
   min-width: 130px;
   max-width: 130px;
   margin-left: auto;
@@ -21,6 +21,12 @@ h1 {
   padding-top: 80px;
   font-family: "ET Book", serif;
   font-size: 64px;
+  text-align: center;
+}
+
+p {
+  font-family: "ET Book";
+  font-size: 36px;
   text-align: center;
 }
 
